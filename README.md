@@ -5,7 +5,7 @@ It uses the OpenGL API, and features post processing effects such as bloom.
 
 ## Controls
 
-* Mouse wheel - Zoom
+* Mouse wheel - Zoom in/out
 * Middle mouse button - Move camera
 
 ## Screenshots
