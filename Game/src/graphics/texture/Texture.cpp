@@ -1,9 +1,9 @@
 #include "Texture.h"
 
 #include <glew.h>
+#include <stb_image.h>
 
 #include "../../debug/Debug.h"
-#include "../../io/stb_image.h"
 
 namespace graphics {
 
